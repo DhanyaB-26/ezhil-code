@@ -1,6 +1,3 @@
-'''
-pip install scikit-image
-'''
 import glob
 from skimage import io,data
 from skimage.color import rgba2rgb
@@ -23,12 +20,8 @@ class Colors(Executor):
             l.append(rgb)
             l.append(hexcode)
             return l
-        
-# class SimpleIndexer(Executor):
+       
     
-#     @requests (on='\search')
-#     def find_color_name():
-        
 #_________________________________________________________________________________
 
 
