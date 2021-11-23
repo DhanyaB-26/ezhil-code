@@ -2,7 +2,7 @@
 14 Days of Learning Challenge - JINA AI in Featurethon season 3 by Featurepreneur.
 
 ## What is our Project?
-The learning journey was amazing and we got introduced to new the topic of neural search and how Jina AI facilitates it. In response to that, we created PROJECT - EZHIL . Our project can be used to find the RGB values and Hex code of the color in an image.\
+The learning journey was amazing and we got introduced to new the topic of neural search and how Jina AI facilitates it. In response to that, we created PROJECT - EZHIL . Our project can be used to find the RGB values and Hex code of the color in an image.
 
 ## Why was PROJECT - EZHIL created?
 We started our programming skills with the web development and designing. One prominent we faced and witnessed many others face were
